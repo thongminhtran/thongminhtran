@@ -1,4 +1,4 @@
-Hi! I'm Tim Tran. 😊
+# Hi! I'm Tim Tran. 😊
 
 🔭 **I’m currently working on:** Mastering full-stack development skills and contributing to open-source projects. I'm deeply involved in creating dynamic, user-friendly web applications that solve real-world problems.
 
@@ -14,6 +14,17 @@ Hi! I'm Tim Tran. 😊
 
 🧘 **Another fact:** Outside of coding, I find solace in meditation and the teachings of Buddhism. It's a journey that complements my tech endeavors, grounding me and providing a different perspective on life's challenges.
 
+## 🛠 Technical Skills
+- **Programming Languages:** JavaScript (ES6+), TypeScript, C++, Java (8 & 11), Python, HTML5, CSS3
+- **Frameworks & Libraries:** React, Angular 10, Vue.js, Axios, Moment.js, Material-UI (@MUI)
+- **Tools & Platforms:** Microsoft Office Suite, Visual Studio, Eclipse, JetBrains IDEs, Jira, Trello, Bitrix24 CRM
+- **Other Technologies:** Azure Cloud Services, PostgreSQL, SQL Server, RESTful APIs, Docker, Apache (XAMPP), Git, Jest, React Testing Library, Babel, PHP, Laravel
+
+## 🎓 Education
+
+**Concordia University Montreal, QC**  
+_Bachelor of Computer Science - General Program Co-op_  
+*Fall 2019 – Winter 2024*
 ---
 
 Looking forward to connecting with fellow tech enthusiasts and learners!

@@ -22,26 +22,28 @@
 
 ## 🎓 Education
 
-**Concordia University Montreal, QC**  
+**Concordia University, Montreal, QC**  
 _Bachelor of Computer Science - General Program Co-op_  
-*Fall 2019 – Winter 2024*
+**Fall 2019 – Winter 2024**
+
 ---
 
 ## 💼 Work Experience
 
-### Bombardier Aerospace Montreal, QC
+### **Bombardier Aerospace, Montreal, QC**
 **Full-Stack Developer Intern**  
-*January 2023 - December 2023*
-- Collaborated on the Predictive Maintenance project, optimizing user interfaces with React, JavaScript (ES6+), and GraphQL.
-- Coordinated with design and backend teams on UI enhancements and RESTful API integration.
-- Authored and maintained 100+ unit tests, achieving a 95% coverage rate.
+**January 2023 - December 2023**
+- Collaborated on the Predictive Maintenance project, optimizing user interfaces using **React**, **JavaScript (ES6+)**, and **GraphQL**.
+- Coordinated with design and backend teams to integrate UI enhancements and **RESTful APIs**.
+- Authored and maintained **100+ unit tests** with **React Testing Library** and **Jest**, achieving a **95% coverage rate**.
 
-### CGI Canada Montreal, QC
+### **CGI Canada, Montreal, QC**
 **Full-Stack Developer Intern**  
-*January 2022 - May 2022*
-- Developed a front-end application for VIA Rail Canada, enhancing booking management efficiency.
-- Optimized the VIA Rail Canada website infrastructure with Docker.
-- Implemented advanced features in Java with Spring Boot for backend services.
+**January 2022 - May 2022**
+- Developed a front-end application for **VIA Rail Canada** in **Angular 10** and **TypeScript**, enhancing booking management efficiency.
+- Optimized the VIA Rail Canada website infrastructure with **Docker**.
+- Implemented advanced features and algorithms in **Java** with **Spring Boot** for backend services.
 
+---
 
 ### Looking forward to connecting with fellow tech enthusiasts and learners!

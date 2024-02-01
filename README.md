@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi! I'm Tim Tran. 😊
 
-<!--
-**thongminhtran/thongminhtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **I’m currently working on:** Mastering full-stack development skills and contributing to open-source projects. I'm deeply involved in creating dynamic, user-friendly web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+🌱 **I’m currently learning:** I'm diving deep into the world of web development, from front-end frameworks like React and Angular to back-end technologies such as Spring Boot and Node.js. Every day is a learning adventure!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Ask me about:** Anything tech-related! I'm here to share my experiences in web development, my journey through computer science, and any coding challenges you might be facing.
+
+📫 **How to reach me:** Feel free to drop me an email at [tminhthong1999@gmail.com](mailto:tminhthong1999@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com). I'm always open to interesting conversations and collaboration opportunities.
+
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact:** I have a passion for exploring the intricacies of web design and development. Whenever I encounter a beautifully designed website, my first instinct is to peek under the hood and understand the magic behind it. It's fascinating to see how different technologies and frameworks come together to create seamless user experiences.
+
+🧘 **Another fact:** Outside of coding, I find solace in meditation and the teachings of Buddhism. It's a journey that complements my tech endeavors, grounding me and providing a different perspective on life's challenges.
+
+---
+
+Looking forward to connecting with fellow tech enthusiasts and learners!

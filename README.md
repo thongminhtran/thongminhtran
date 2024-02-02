@@ -10,7 +10,7 @@
 
 😄 **Pronouns:** He/Him
 
-⚡ **Fun fact:** I have a passion for exploring the intricacies of web design and development. Whenever I encounter a beautifully designed website, my first action is trying to understand the magic behind it. It's fascinating to see how different technologies and frameworks come together to improve user experiences.
+⚡ **Fun fact:** I have a passion for exploring web design and development. Whenever I encounter a beautifully designed website, my first action is trying to understand the magic behind it. It's fascinating to see how different technologies and frameworks come together to improve user experiences.
 
 🧘 **Another fact:** Outside of coding, I find solace in meditation and plaing computer games. It's a journey that provides a different perspective on life's challenges.
 

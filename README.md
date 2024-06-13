@@ -23,7 +23,3 @@
 **Concordia University Montreal, QC**  
 _Bachelor of Computer Science - General Program Co-op_  
 *Fall 2019 – Winter 2024*
-
----
-
-### Looking forward to connecting with fellow tech enthusiasts and learners!

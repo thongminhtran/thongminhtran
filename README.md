@@ -6,6 +6,8 @@
 _Bachelor of Computer Science - General Program Co-op_  
 *Fall 2019 – Winter 2024*
 
+----
+
 🔭 **I’m currently working on:** I love to open-source projects. I'm involved in creating dynamic, user-friendly web applications that solve real-world problems.
 
 🌱 **I’m currently learning:** I'm concentrating on the web development, from front-end frameworks like React and Angular to back-end technologies such as Spring Boot and Node.js. Every day is a learning adventure!

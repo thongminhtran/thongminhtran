@@ -1,14 +1,7 @@
 # Hi! I'm Tim Tran. 😊
 
-## 🎓 Education
 
-**Concordia University Montreal, QC**  
-_Bachelor of Computer Science - General Program Co-op_  
-*Fall 2019 – Winter 2024*
-
-----
-
-🔭 **I’m currently working on:** I love to open-source projects. I'm involved in creating dynamic, user-friendly web applications that solve real-world problems.
+🔭 **I’m currently working on:** I love working for open-source projects. I'm involved in creating dynamic, user-friendly web applications that solve real-world problems.
 
 🌱 **I’m currently learning:** I'm concentrating on the web development, from front-end frameworks like React and Angular to back-end technologies such as Spring Boot and Node.js. Every day is a learning adventure!
 
@@ -25,3 +18,9 @@ _Bachelor of Computer Science - General Program Co-op_
 - **Frameworks & Libraries:** React, Angular 10, Vue.js, Axios, Moment.js, Material-UI (@MUI)
 - **Tools & Platforms:** Microsoft Office Suite, Visual Studio, Eclipse, JetBrains IDEs, Jira, Trello, Bitrix24 CRM
 - **Other Technologies:** Azure Cloud Services, PostgreSQL, SQL Server, RESTful APIs, Docker, Apache (XAMPP), Git, Jest, React Testing Library, Babel, PHP, Laravel
+
+## 🎓 Education
+
+**Concordia University Montreal, QC**  
+_Bachelor of Computer Science - General Program Co-op_  
+*Fall 2019 – Winter 2024*
